@@ -1,7 +1,7 @@
 
 Used electron to make desktop app using electron-manager.
 
-Download the zip file and run IMAGE_RESIZER.exe to run the application.
+Download the zip file and run IMAGE_RESIZER.exe to run the application. -- will soon update in google drive
 
 Choose a picture you want to resize and update height or width of the picture to resize it.
 
