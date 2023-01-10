@@ -1,5 +1,6 @@
-
 Used electron to make desktop app using electron-manager.
+
+<img src="D:\Image_resizer.png">
 
 Download the zip file and run IMAGE_RESIZER.exe to run the application.
 
